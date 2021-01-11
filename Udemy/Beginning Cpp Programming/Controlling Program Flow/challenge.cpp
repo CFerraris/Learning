@@ -54,8 +54,8 @@ Use a vector
 
 using namespace std;
 
-char display_menu();
-bool execute_choice(const char &choice, vector<int> &integers);
+void display_menu();
+void execute_choice(const char &choice, vector<int> &integers);
 void print_numbers(const vector<int> &integers);
 void add_number(vector<int> &integers);
 void print_mean(const vector<int> &integers);
@@ -63,19 +63,24 @@ void print_smallest(const vector<int> &integers);
 void print_largest(const vector<int> &integers);
 
 int main() {
-  vector<int> integers;
+  vector<int> integers{};
 
-  bool exit{false};
+  char choice{};
   do {
     cout << "\n------------------------" << endl;
-    char choice = display_menu();
-    exit = execute_choice(choice, integers);
-  } while (!exit);
+    display_menu();
+
+    cout << "Enter your choice:";
+    cin >> choice;
+    cout << endl;
+
+    execute_choice(choice, integers);
+  } while (choice != 'Q' && choice != 'q');
 
   return 0;
 }
 
-char display_menu() {
+void display_menu() {
   cout << "P - Print numbers" << endl;
   cout << "A - Add a number" << endl;
   cout << "M - Display mean of the numbers" << endl;
@@ -83,16 +88,9 @@ char display_menu() {
   cout << "L - Display the largest number" << endl;
   cout << "Q - Quit" << endl;
   cout << endl;
-
-  char choice{};
-  cout << "Enter your choice:";
-  cin >> choice;
-  cout << endl;
-
-  return choice;
 }
 
-bool execute_choice(const char &choice, vector<int> &integers) {
+void execute_choice(const char &choice, vector<int> &integers) {
   if (choice == 'P' || choice == 'p') {
     print_numbers(integers);
   } else if (choice == 'A' || choice == 'a') {
@@ -105,12 +103,9 @@ bool execute_choice(const char &choice, vector<int> &integers) {
     print_largest(integers);
   } else if (choice == 'Q' || choice == 'q') {
     cout << "Goodbye" << endl;
-    return true;
   } else {
     cout << "Unknown selection, please try again" << endl;
   }
-
-  return false;
 }
 
 void print_numbers(const vector<int> &integers) {
