@@ -24,7 +24,7 @@
 
 | Read | Title                                 | Author                        | ISBN              |
 | ---- | ------------------------------------- | ----------------------------- | ----------------- |
-| ☑️   | Designing Data-Intensive Applications | Martin Kleppmann              | 978-1-449-37332-0 |
+| ✅   | Designing Data-Intensive Applications | Martin Kleppmann              | 978-1-449-37332-0 |
 | ☑️   | Database Systems                      | Thomas Connolly, Carolyn Begg | 978-0-13-294326-0 |
 
 ## Architecture, Design Patterns and Clean Code
