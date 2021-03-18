@@ -16,9 +16,16 @@
 
 | Read | Title                                         | Author           | ISBN              |
 | ---- | --------------------------------------------- | ---------------- | ----------------- |
-| ☑️   | Programmer en langage C++                     | Claude Delannoy  | 978-2-212-67386-9 |
+| ✅   | Programmer en langage C++                     | Claude Delannoy  | 978-2-212-67386-9 |
 | ⬜️  | Effective Modern C++                          | Scott Meyers     | 978-1-491-90399-5 |
 | ☑️   | Data Structures and Algorithm Analysis in C++ | Mark Allen Weiss | 978-0-13-284737-7 |
+
+### C## and .Net
+
+| Read | Title                                         | Author           | ISBN              |
+| ---- | --------------------------------------------- | ---------------- | ----------------- |
+| ⬜️  | The C# Player's Guide                         | R.B Whitaker     | 978-0-985-58013-1 |
+| ⬜️  | The C# Programming Yellow Book                 | Rob Miles       | 978-1-728-72496-6 |
 
 ## Database
 
