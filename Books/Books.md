@@ -8,9 +8,9 @@
 
 ### Rust
 
-| Read | Title                         | Author                      | ISBN              |
-| ---- | ----------------------------- | --------------------------- | ----------------- |
-| ⬜️  | The Rust Programming Language | Steve Klabnik Carol Nichols | 978-1-718-50044-0 |
+| Read | Title                         | Author                       | ISBN              |
+| ---- | ----------------------------- | ---------------------------- | ----------------- |
+| ⬜️  | The Rust Programming Language | Steve Klabnik, Carol Nichols | 978-1-718-50044-0 |
 
 ### C++
 
