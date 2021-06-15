@@ -60,7 +60,7 @@
 
 | Read | Title               | Author                                | ISBN              |
 | ---- | ------------------- | ------------------------------------- | ----------------- |
-| ☑️   | The DevOps Handbook | G. Kim, J Humble, P Debois & J Willis | 978-1-942788-00-3 |
+| ✅  | The DevOps Handbook | G. Kim, J Humble, P Debois & J Willis | 978-1-942788-00-3 |
 | ⬜️  | The Phoenix Project | G. Kim, K Behr & G. Spafford          | 978-1-942788-29-4 |
 
 ## IA and Machine Learning
