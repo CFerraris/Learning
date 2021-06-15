@@ -8,7 +8,7 @@ Contains a list of books that I've read or wish to read. Also contains some code
 
 ## Websites
 
-Contains a list of websites contain useful resources.
+Contains a list of websites with useful resources.
 
 ## Udemy
 
