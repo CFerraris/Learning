@@ -20,12 +20,12 @@
 | ⬜️  | Effective Modern C++                          | Scott Meyers     | 978-1-491-90399-5 |
 | ☑️   | Data Structures and Algorithm Analysis in C++ | Mark Allen Weiss | 978-0-13-284737-7 |
 
-### C## and .Net
+### C# and .Net
 
-| Read | Title                                         | Author           | ISBN              |
-| ---- | --------------------------------------------- | ---------------- | ----------------- |
-| ⬜️  | The C# Player's Guide                         | R.B Whitaker     | 978-0-985-58013-1 |
-| ⬜️  | The C# Programming Yellow Book                 | Rob Miles       | 978-1-728-72496-6 |
+| Read | Title                          | Author       | ISBN              |
+| ---- | ------------------------------ | ------------ | ----------------- |
+| ⬜️  | The C# Player's Guide          | R.B Whitaker | 978-0-985-58013-1 |
+| ⬜️  | The C# Programming Yellow Book | Rob Miles    | 978-1-728-72496-6 |
 
 ## Database
 
@@ -54,6 +54,15 @@
 | ☑️   | Cryptography - Theory and Practice           | Douglas R. Stinson, Maura B. Paterson | 978-1-138-19701-5 |
 | ⬜️  | The Basic of Hacking and Penetration Testing | Patrick Engebretson                   | 978-0-12-411644-3 |
 
+## Project Management
+
+### DevOps
+
+| Read | Title               | Author                                | ISBN              |
+| ---- | ------------------- | ------------------------------------- | ----------------- |
+| ☑️   | The DevOps Handbook | G. Kim, J Humble, P Debois & J Willis | 978-1-942788-00-3 |
+| ⬜️  | The Phoenix Project | G. Kim, K Behr & G. Spafford          | 978-1-942788-29-4 |
+
 ## IA and Machine Learning
 
 | Read | Title                            | Author         | ISBN              |
@@ -68,4 +77,4 @@
 | ✅   | The Soul of a New Machine                   | Tracy Kidder                       | 978-0-316-49170-9 |
 | ✅   | Thinking in Systems: A Primer               | Donella Meadows                    | 978-1-603-58055-7 |
 | ⬜️  | Algotirhmes to Live By                      | Brian Christian and Tome Griffiths | 978-1-250-11836-3 |
-| ⬜️  | The Big Nine                                | Amy Webb                           | 978-1-5417-7375-2 |
+| ✅   | The Big Nine                                | Amy Webb                           | 978-1-5417-7375-2 |
